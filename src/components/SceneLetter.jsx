@@ -548,7 +548,7 @@ export default function SceneLetter({ config, onReplay }) {
                 {config?.letter?.salutation || 'Gửi công chúa nhỏ của anh,'}
               </h2>
               <span className="font-serif italic text-xs sm:text-sm text-stone-500">
-                Hà Nội, ngày 20 tháng 10 năm 2026
+                Hà Nội, ngày 23 tháng 11 năm 2027
               </span>
             </div>
 
